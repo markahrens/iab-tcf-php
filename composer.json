@@ -1,7 +1,7 @@
 {
-    "name": "dynata/iabtcf",
+    "name": "markahrens/iabtcf",
     "description": "IAB TCF Consent String Decoder & Encoder",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "type": "library",
     "keywords": [
         "IAB",
@@ -11,8 +11,8 @@
     ],
     "authors": [
         {
-            "name": "Nicolas Bringas",
-            "email": "nicolas.bringas@dynata.com"
+            "name": "Mark Ahrens",
+            "email": "mark.ahrens@ukg.com"
         }
     ],
     "require": {
